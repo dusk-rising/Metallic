@@ -21,7 +21,7 @@ function Nav() {
           <BananaSVG />
         ) : localAppearance === "dusk" ? (
           <DuskSVG />
-    
+        ) : (
           <LogoSVG fill="var(--highlight)" />
         )}
       </Link>
