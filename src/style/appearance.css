@@ -241,8 +241,8 @@ body[appearance="tsunami"] .tsunamilogo {
 body[appearance="dusk"] {
   --text: white;
   --text-contrast: black;
-  --highlight: #566373;
-  --background: #303740;
+  --highlight: #303740;
+  --background: #171717;
   --placeholder: darkslategray;
   --font-main: "Courier New";
   --font-title: "Courier New";
