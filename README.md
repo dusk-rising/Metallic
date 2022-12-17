@@ -42,3 +42,6 @@ View the changelog/roadmap [here](https://github.com/Metallic-Web/Metallic/blob/
 
 ## License
 Metallic uses the MIT license.
+
+## MESSAGE
+I did not do most of the code here. You can view the original via the "forked from" message un der the title
