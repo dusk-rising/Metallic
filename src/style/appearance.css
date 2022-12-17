@@ -240,7 +240,7 @@ body[appearance="tsunami"] .tsunamilogo {
 
 body[appearance="dusk"] {
   --text: white;
-  --text-contrast: black;
+  --text-contrast: white;
   --highlight: #303740;
   --background: #171717;
   --placeholder: darkslategray;
