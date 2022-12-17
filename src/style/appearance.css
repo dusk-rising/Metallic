@@ -237,3 +237,21 @@ body[appearance="tsunami"] .homelogo {
 body[appearance="tsunami"] .tsunamilogo {
   display: initial;
 }
+
+body[appearance="dusk"] {
+  --text: white;
+  --text-contrast: black;
+  --highlight: #566373;
+  --background: #303740;
+  --placeholder: darkslategray;
+  --font-main: "Courier New";
+  --font-title: "Courier New";
+}
+
+body[appearance="dusk"] .homelogo {
+  display: none;
+}
+
+body[appearance="dusk"] .dusklogo {
+  display: initial;
+}
