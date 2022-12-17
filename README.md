@@ -12,6 +12,9 @@
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Metallic-Web/Metallic&branch=main&name=Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/koyeb2.svg"><img></a>
 </p>
 
+## MESSAGE
+I did not do most of the code here. You can view the original via the "forked from" message under the title
+
 ## Features
 - Simple clean design
 - Support for many popular sites
@@ -42,6 +45,3 @@ View the changelog/roadmap [here](https://github.com/Metallic-Web/Metallic/blob/
 
 ## License
 Metallic uses the MIT license.
-
-## MESSAGE
-I did not do most of the code here. You can view the original via the "forked from" message un der the title
