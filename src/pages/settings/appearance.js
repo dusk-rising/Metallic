@@ -52,6 +52,9 @@ function Appearance() {
         <ThemeOption type="dark">
           <Obfuscate>Dark</Obfuscate>
         </ThemeOption>
+     <ThemeOption type="dusk">
+          <Obfuscate>Dusk</Obfuscate>
+        </ThemeOption>
         <ThemeOption type="light">
           <Obfuscate>Light</Obfuscate>
         </ThemeOption>
