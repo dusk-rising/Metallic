@@ -53,7 +53,7 @@ function Appearance() {
           <Obfuscate>Dark</Obfuscate>
         </ThemeOption>
         <ThemeOption type="dusk">
-          <Obfuscate>Dark</Obfuscate>
+          <Obfuscate>Dusk</Obfuscate>
         </ThemeOption>
         <ThemeOption type="light">
           <Obfuscate>Light</Obfuscate>
