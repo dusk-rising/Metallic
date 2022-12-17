@@ -6,6 +6,7 @@ import SettingsIcon from "@mui/icons-material/Settings";
 import { ReactComponent as LogoSVG } from "../assets/logo.svg";
 import { ReactComponent as TsunamiSVG } from "../assets/tsunamiLogo.svg";
 import { ReactComponent as BananaSVG } from "../assets/bananaLogo.svg";
+import { ReactComponent as DuskSVG } from "../assets/dusk.svg";
 import { useLocalAppearance } from "../settings.js";
 
 function Nav() {
@@ -18,7 +19,8 @@ function Nav() {
           <TsunamiSVG />
         ) : localAppearance === "banana" ? (
           <BananaSVG />
-        ) : (
+        ) : localAppearance === "dusk" ? (
+          <DuskSVG />
           <LogoSVG fill="var(--highlight)" />
         )}
       </Link>
